@@ -1,6 +1,6 @@
-# project12
+# Borrowing Assets (Team 12)
 
-A new Flutter project.
+A university group Flutter project.
 
 ## Getting Started
 
